@@ -52,8 +52,8 @@ See [`Cyclistic_Case_Study.md`](./Cyclistic_Case_Study.md#7-act-phase--recommend
 
 ## 📈 Dashboard
 
-*Add your published Tableau Public link here once built:*
-`[Tableau Public Dashboard Link]`
+
+`[file:///C:/Users/MUHAMMAD%20QASIM/Downloads/index.html]`
 
 ---
 
@@ -68,6 +68,7 @@ See [`Cyclistic_Case_Study.md`](./Cyclistic_Case_Study.md#7-act-phase--recommend
 
 ## 👤 Author
 
-*Add your name, LinkedIn, and portfolio link here.*
+**Sadiqa Bibi** Cyberpsychology researcher exploring the intersection of Psychology, Data & AI LinkedIn: [https://www.linkedin.com/in/sadiqa-cyberpsych/]
+
 
 *This project was completed as part of the Google Data Analytics Professional Certificate capstone.*
