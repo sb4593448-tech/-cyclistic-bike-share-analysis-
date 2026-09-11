@@ -33,8 +33,7 @@ Cyclistic's Director of Marketing, Lily Moreno, believes the fastest path to sus
 - **Python** — pandas, requests, matplotlib, seaborn
 - **Google Colab** — cloud execution, no local storage of raw data
 - **BigQuery** (optional) — SQL-based analysis path
-- **Tableau Public** — dashboard and visualization
-
+- **HTML, CSS & Chart.js** — interactive dashboard, hosted on GitHub Pages
 ---
 
 ## 📊 Process Summary
@@ -43,7 +42,7 @@ Cyclistic's Director of Marketing, Lily Moreno, believes the fastest path to sus
 2. **Prepare** — Streamed the latest 12 months of trip data directly from the [Divvy S3 bucket](https://divvy-tripdata.s3.amazonaws.com/index.html) into memory.
 3. **Process** — Parsed timestamps, engineered `ride_length`, `day_of_week`, `month`, `hour`; removed invalid/test rides.
 4. **Analyze** — Compared ride duration, weekly/monthly patterns, bike-type preference, and hourly demand between members and casual riders.
-5. **Share** — Built four core visualizations and a Tableau Public dashboard.
+5. **HTML, CSS & Chart.js** — interactive dashboard, hosted on GitHub Pages
 6. **Act** — Delivered 4 targeted marketing recommendations to convert casual riders into members.
 
 ## 🎯 Key Recommendation Highlights
