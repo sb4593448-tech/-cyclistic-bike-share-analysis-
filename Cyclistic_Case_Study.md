@@ -2,7 +2,6 @@
 
 *A Google Data Analytics Capstone Project*
 
-> **Note on placeholders:** Values marked `[X]` are populated automatically when you run `cyclistic_colab_script.py` in Colab. Replace every `[X]` with your printed output before publishing to Medium/GitHub/your portfolio. The structure, narrative, and recommendation logic below are ready to go as-is.
 
 ---
 
