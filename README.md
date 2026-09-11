@@ -53,8 +53,7 @@ See [`Cyclistic_Case_Study.md`](./Cyclistic_Case_Study.md#7-act-phase--recommend
 ## 📈 Dashboard
 
 
-`[file:///C:/Users/MUHAMMAD%20QASIM/Downloads/index.html]`
-
+https://sb4593448-tech.github.io/-cyclistic-bike-share-analysis-/
 ---
 
 ## ▶️ How to Reproduce
@@ -62,8 +61,7 @@ See [`Cyclistic_Case_Study.md`](./Cyclistic_Case_Study.md#7-act-phase--recommend
 1. Open `Cyclistic_Capstone_Kaggle_Colab.ipynb` in Google Colab or Kaggle.
 2. Run all cells top to bottom — this streams the 12 latest months from S3, cleans and analyzes the data, and generates all four charts.
 3. (Optional) Load cleaned data into BigQuery and run `cyclistic_sql_queries.sql` for a SQL-based cross-check.
-4. Export the small aggregated summary CSVs and build the dashboard in Tableau Public.
-
+4.  The live interactive dashboard is already published above (`index.html`, built with HTML/Chart.js, hosted via GitHub Pages).
 ---
 
 ## 👤 Author
